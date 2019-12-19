@@ -1,0 +1,10 @@
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\bin\Debug\ProjectPengPol-B.exe.config
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\bin\Debug\ProjectPengPol-B.exe
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\bin\Debug\ProjectPengPol-B.pdb
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol-B.csprojAssemblyReference.cache
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol_B.Properties.Resources.resources
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol-B.csproj.GenerateResource.cache
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol-B.csproj.CoreCompileInputs.cache
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol-B.exe
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol-B.pdb
+C:\Users\dbss121\source\repos\ProjectPengPol-B\ProjectPengPol-B\obj\Debug\ProjectPengPol_B.Form1.resources
